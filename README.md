@@ -43,4 +43,4 @@ AI-powered Resume Analyzer that evaluates resumes, extracts skills, matches them
 
 ```bash
 pip install -r requirements.txt
-streamlit run app/app.py
+streamlit run app/app.py 
